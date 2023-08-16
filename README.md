@@ -13,6 +13,6 @@ A fictional company has an HR data set with information about all of their emplo
 <b>Data Cleanup & Preparation:</b><br>
 	• I created an <em>Age</em> column and calculated the age of each customer by subtracting the value in the Year_Birth column from 2023.<br>
 	• I converted the <em>Zip</em> column type to zip code, to ensure that the zeros at the start of the zip codes are preserved.<br>
- 	• I filled in the <em>MangerID</em> column for the manager Webster Butler, because he was the only manager who did not have one.<br>
+ 	• I filled in the <em>ManagerID</em> column for the manager Webster Butler, because he was the only manager who did not have one.<br>
 
 
